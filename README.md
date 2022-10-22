@@ -1,2 +1,0 @@
-# DataScienceProjects
-imdb.png
